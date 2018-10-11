@@ -1,0 +1,11 @@
+opencv-python
+annoy
+imutils
+jupyter
+mxnet-cu100
+pandas
+Pillow
+scikit-image
+scikit-learn
+torch
+torchvision

@@ -1,0 +1,9 @@
+[submodule "thirdparty/detector/s3fd"]
+	path = thirdparty/detector/s3fd
+	url = https://github.com/xmba15/SFD_pytorch.git
+[submodule "thirdparty/embedding/insightface"]
+	path = thirdparty/embedding/insightface
+	url = https://github.com/xmba15/insightface.git
+[submodule "thirdparty/pose/deep_head_pose"]
+	path = thirdparty/pose/deep_head_pose
+	url = https://github.com/xmba15/deep-head-pose.git
